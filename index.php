@@ -16,13 +16,7 @@
 				<div class="justify-content-center">
 					<ul class="navbar-nav">
 						<li class="nav-item">
-							<a class="nav-link" href="index.html">Pocetna</a>
-						</li>
-						<li class="nav-item">
-							<a class="nav-link" href="index.php">O autoru</a>
-						</li>
-						<li class="nav-item">
-							<a class="nav-link" href="index.php">Uputstvo</a>
+							<a class="nav-link" href="index.php">Bus reservations</a>
 						</li>
 					</ul>
 				</div>

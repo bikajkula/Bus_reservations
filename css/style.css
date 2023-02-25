@@ -1,0 +1,12 @@
+body{
+  background:#333;
+  color:#fff;
+}
+
+table{
+	text-align:center;
+}
+
+td:hover{
+	cursor: pointer;
+}
